@@ -1,6 +1,7 @@
-# Perceptron 
+# Multi Layer Perceptron
 
-This experiment implements a **Perceptron classifier** using the Banknote Authentication dataset. The objective is to implement a perceptron from scratch and train the binary classifier that distinguishes between genuine and forged banknotes.
+This experiment implements a **Neural Network** using the Fashion MNIST dataset. Learn image preprocessing, flattening, model construction, training, evaluation, and automated hyperparameter optimization.
+
 
 ## Dataset
 
