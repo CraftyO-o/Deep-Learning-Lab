@@ -34,7 +34,7 @@ The project depends on:
 1. Clone the repository.
 2. Navigate to this experiment's directory.
 3. Install the required dependencies.
-4.Open `MLP.ipynb` and run the notebook cells sequentially.
+4. Open `MLP.ipynb` and run the notebook cells sequentially.
 
 OR
 
